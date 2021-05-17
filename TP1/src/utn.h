@@ -8,6 +8,9 @@
 #ifndef UTN_H_
 #define UTN_H_
 
+
+#endif /* UTN_H_ */
+
 /** \brief Muestra el menu de opciones
  *
  * \return int devuelve la opcion seleccionada
@@ -62,6 +65,3 @@ int multiplicar(int a, int b);
  *
  */
 int factorial(int n, int* fact);
-
-#endif /* UTN_H_ */
-
